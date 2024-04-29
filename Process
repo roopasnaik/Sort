@@ -1,0 +1,12 @@
+The provided program creates a GUI for sorting algorithm visualization using Tkinter. Here's what you can expect when you run the program:
+
+1. A window titled "Sorting Algorithm Visualizer" will appear.
+2. You'll see a label prompting you to enter numbers separated by space.
+3. Enter a list of numbers into the entry field.
+4. Click the "Sort" button to start the visualization.
+5. The program will display a canvas where the sorting process will be visualized.
+6. As the sorting algorithm progresses, you'll see rectangles representing the numbers being rearranged on the canvas.
+7. The visualization will continue until the sorting process is complete.
+8. You can adjust the speed of the animation by changing the value of `time.sleep()` in the code.
+
+This program provides a visual representation of the sorting algorithm in action, allowing you to observe how different sorting techniques rearrange elements to sort the list.
